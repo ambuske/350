@@ -1,0 +1,911 @@
+Level 0
+g C k C x g 
+m x g g B m 
+k x C x g x 
+x k g W g C 
+g k x C m x 
+x k m x k x 
+===========
+Level 1
+x m m g k m 
+W C k x x C 
+x k g C x x 
+C C B g x C 
+x m k g m C 
+g x m g m x 
+===========
+Level 2
+x k k m k x 
+m m g C x k 
+m g x x m m 
+C C m k g x 
+g g g W g B 
+x C x x C m 
+===========
+Level 3
+x g g x x C 
+m g g x g B 
+x C x k m m 
+k x g m k m 
+C k k C C m 
+x k k C x x 
+===========
+Mario is at starting postition: (1,4)
+============
+g C k C x g 
+m x g g H m 
+k x C x g x 
+x k g W g C 
+g k x C m x 
+x k m x k x 
+===========
+Level: 0. Mario is at position: (1,4). Mario is at power level 1. Mario encountered a boss and won.  He will move on to the next level. Mario has 2 lives left. Mario has 0 coins. Direction: stay put
+============
+g C k C x g 
+m x g g H m 
+k x C x g x 
+x k g W g C 
+g k x C m x 
+x k m x k x 
+===========
+x m m g k m 
+W C k x H C 
+x k g C x x 
+C C B g x C 
+x m k g m C 
+g x m g m x 
+===========
+Level: 1. Mario is at position: (1,4). Mario is at power level 1. The position is empty. Mario has 2 lives left. Mario has 0 coins. Direction: RIGHT
+============
+x m m g k m 
+W C k x x H 
+x k g C x x 
+C C B g x C 
+x m k g m C 
+g x m g m x 
+===========
+Level: 1. Mario is at position: (1,5). Mario is at power level 1. Mario collected a coin. Mario has 2 lives left. Mario has 1 coins. Direction: UP
+============
+x m m g k H 
+W C k x x x 
+x k g C x x 
+C C B g x C 
+x m k g m C 
+g x m g m x 
+===========
+Level: 1. Mario is at position: (0,5). Mario is at power level 1. Mario ate a mushroom. Mario has 2 lives left. Mario has 1 coins. Direction: RIGHT
+============
+H m m g k x 
+W C k x x x 
+x k g C x x 
+C C B g x C 
+x m k g m C 
+g x m g m x 
+===========
+Level: 1. Mario is at position: (0,0). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 1 coins. Direction: UP
+============
+x m m g k x 
+W C k x x x 
+x k g C x x 
+C C B g x C 
+x m k g m C 
+H x m g m x 
+===========
+Level: 1. Mario is at position: (5,0). Mario is at power level 2. Mario fought a Goomba and won. Mario has 2 lives left. Mario has 1 coins. Direction: UP
+============
+x m m g k x 
+W C k x x x 
+x k g C x x 
+C C B g x C 
+H m k g m C 
+x x m g m x 
+===========
+Level: 1. Mario is at position: (4,0). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 1 coins. Direction: RIGHT
+============
+x m m g k x 
+W C k x x x 
+x k g C x x 
+C C B g x C 
+x H k g m C 
+x x m g m x 
+===========
+Level: 1. Mario is at position: (4,1). Mario is at power level 2. Mario ate a mushroom. Mario has 2 lives left. Mario has 1 coins. Direction: DOWN
+============
+x m m g k x 
+W C k x x x 
+x k g C x x 
+C C B g x C 
+x x k g m C 
+x H m g m x 
+===========
+Level: 1. Mario is at position: (5,1). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 1 coins. Direction: DOWN
+============
+x H m g k x 
+W C k x x x 
+x k g C x x 
+C C B g x C 
+x x k g m C 
+x x m g m x 
+===========
+Level: 1. Mario is at position: (0,1). Mario is at power level 2. Mario ate a mushroom. Mario has 2 lives left. Mario has 1 coins. Direction: LEFT
+============
+H x m g k x 
+W C k x x x 
+x k g C x x 
+C C B g x C 
+x x k g m C 
+x x m g m x 
+===========
+Level: 1. Mario is at position: (0,0). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 1 coins. Direction: DOWN
+============
+x x m g k x 
+H C k x x x 
+x k g C x x 
+C C B g x C 
+x x k g m C 
+x x m g m x 
+===========
+Level: 1. Mario is at position: (1,0). Mario is at power level 2. Mario found a warp pipe.  Mario will WARP. Mario has 2 lives left. Mario has 1 coins. Direction: UP
+============
+x x m g k x 
+W C k x x x 
+x k g C x x 
+C C B g x C 
+x x k g m C 
+x x m g H x 
+===========
+x k k m k x 
+m m g C x k 
+m g x x m m 
+C C m k g x 
+g g g W g B 
+x C x x H m 
+===========
+Level: 2. Mario is at position: (5,4). Mario is at power level 2. Mario collected a coin. Mario has 2 lives left. Mario has 2 coins. Direction: LEFT
+============
+x k k m k x 
+m m g C x k 
+m g x x m m 
+C C m k g x 
+g g g W g B 
+x C x H x m 
+===========
+Level: 2. Mario is at position: (5,3). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 2 coins. Direction: LEFT
+============
+x k k m k x 
+m m g C x k 
+m g x x m m 
+C C m k g x 
+g g g W g B 
+x C H x x m 
+===========
+Level: 2. Mario is at position: (5,2). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 2 coins. Direction: RIGHT
+============
+x k k m k x 
+m m g C x k 
+m g x x m m 
+C C m k g x 
+g g g W g B 
+x C x H x m 
+===========
+Level: 2. Mario is at position: (5,3). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 2 coins. Direction: UP
+============
+x k k m k x 
+m m g C x k 
+m g x x m m 
+C C m k g x 
+g g g H g B 
+x C x x x m 
+===========
+Level: 2. Mario is at position: (4,3). Mario is at power level 2. Mario found a warp pipe.  Mario will WARP. Mario has 2 lives left. Mario has 2 coins. Direction: UP
+============
+x k k m k x 
+m m g C x k 
+m g x x m m 
+C H m k g x 
+g g g W g B 
+x C x x x m 
+===========
+x g g x x C 
+m g g x g B 
+x C x k m m 
+k H g m k m 
+C k k C C m 
+x k k C x x 
+===========
+Level: 3. Mario is at position: (3,1). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 2 coins. Direction: UP
+============
+x g g x x C 
+m g g x g B 
+x H x k m m 
+k x g m k m 
+C k k C C m 
+x k k C x x 
+===========
+Level: 3. Mario is at position: (2,1). Mario is at power level 2. Mario collected a coin. Mario has 2 lives left. Mario has 3 coins. Direction: UP
+============
+x g g x x C 
+m H g x g B 
+x x x k m m 
+k x g m k m 
+C k k C C m 
+x k k C x x 
+===========
+Level: 3. Mario is at position: (1,1). Mario is at power level 2. Mario fought a Goomba and won. Mario has 2 lives left. Mario has 3 coins. Direction: DOWN
+============
+x g g x x C 
+m x g x g B 
+x H x k m m 
+k x g m k m 
+C k k C C m 
+x k k C x x 
+===========
+Level: 3. Mario is at position: (2,1). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 3 coins. Direction: UP
+============
+x g g x x C 
+m H g x g B 
+x x x k m m 
+k x g m k m 
+C k k C C m 
+x k k C x x 
+===========
+Level: 3. Mario is at position: (1,1). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 3 coins. Direction: LEFT
+============
+x g g x x C 
+H x g x g B 
+x x x k m m 
+k x g m k m 
+C k k C C m 
+x k k C x x 
+===========
+Level: 3. Mario is at position: (1,0). Mario is at power level 2. Mario ate a mushroom. Mario has 2 lives left. Mario has 3 coins. Direction: UP
+============
+H g g x x C 
+x x g x g B 
+x x x k m m 
+k x g m k m 
+C k k C C m 
+x k k C x x 
+===========
+Level: 3. Mario is at position: (0,0). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 3 coins. Direction: UP
+============
+x g g x x C 
+x x g x g B 
+x x x k m m 
+k x g m k m 
+C k k C C m 
+H k k C x x 
+===========
+Level: 3. Mario is at position: (5,0). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 3 coins. Direction: UP
+============
+x g g x x C 
+x x g x g B 
+x x x k m m 
+k x g m k m 
+H k k C C m 
+x k k C x x 
+===========
+Level: 3. Mario is at position: (4,0). Mario is at power level 2. Mario collected a coin. Mario has 2 lives left. Mario has 4 coins. Direction: RIGHT
+============
+x g g x x C 
+x x g x g B 
+x x x k m m 
+k x g m k m 
+x H k C C m 
+x k k C x x 
+===========
+Level: 3. Mario is at position: (4,1). Mario is at power level 2. Mario fought a Koopa and won. Mario has 2 lives left. Mario has 4 coins. Direction: DOWN
+============
+x g g x x C 
+x x g x g B 
+x x x k m m 
+k x g m k m 
+x x k C C m 
+x H k C x x 
+===========
+Level: 3. Mario is at position: (5,1). Mario is at power level 2. Mario fought a Koopa and lost. Mario has 2 lives left. Mario has 4 coins. Direction: DOWN
+============
+x H g x x C 
+x x g x g B 
+x x x k m m 
+k x g m k m 
+x x k C C m 
+x k k C x x 
+===========
+Level: 3. Mario is at position: (0,1). Mario is at power level 1. Mario fought a Goomba and won. Mario has 2 lives left. Mario has 4 coins. Direction: RIGHT
+============
+x x H x x C 
+x x g x g B 
+x x x k m m 
+k x g m k m 
+x x k C C m 
+x k k C x x 
+===========
+Level: 3. Mario is at position: (0,2). Mario is at power level 1. Mario fought a Goomba and won. Mario has 2 lives left. Mario has 4 coins. Direction: UP
+============
+x x x x x C 
+x x g x g B 
+x x x k m m 
+k x g m k m 
+x x k C C m 
+x k H C x x 
+===========
+Level: 3. Mario is at position: (5,2). Mario is at power level 1. Mario fought a Koopa and won. Mario has 2 lives left. Mario has 4 coins. Direction: UP
+============
+x x x x x C 
+x x g x g B 
+x x x k m m 
+k x g m k m 
+x x H C C m 
+x k x C x x 
+===========
+Level: 3. Mario is at position: (4,2). Mario is at power level 1. Mario fought a Koopa and won. Mario has 2 lives left. Mario has 4 coins. Direction: RIGHT
+============
+x x x x x C 
+x x g x g B 
+x x x k m m 
+k x g m k m 
+x x x H C m 
+x k x C x x 
+===========
+Level: 3. Mario is at position: (4,3). Mario is at power level 1. Mario collected a coin. Mario has 2 lives left. Mario has 5 coins. Direction: LEFT
+============
+x x x x x C 
+x x g x g B 
+x x x k m m 
+k x g m k m 
+x x H x C m 
+x k x C x x 
+===========
+Level: 3. Mario is at position: (4,2). Mario is at power level 1. The position is empty. Mario has 2 lives left. Mario has 5 coins. Direction: RIGHT
+============
+x x x x x C 
+x x g x g B 
+x x x k m m 
+k x g m k m 
+x x x H C m 
+x k x C x x 
+===========
+Level: 3. Mario is at position: (4,3). Mario is at power level 1. The position is empty. Mario has 2 lives left. Mario has 5 coins. Direction: DOWN
+============
+x x x x x C 
+x x g x g B 
+x x x k m m 
+k x g m k m 
+x x x x C m 
+x k x H x x 
+===========
+Level: 3. Mario is at position: (5,3). Mario is at power level 1. Mario collected a coin. Mario has 2 lives left. Mario has 6 coins. Direction: UP
+============
+x x x x x C 
+x x g x g B 
+x x x k m m 
+k x g m k m 
+x x x H C m 
+x k x x x x 
+===========
+Level: 3. Mario is at position: (4,3). Mario is at power level 1. The position is empty. Mario has 2 lives left. Mario has 6 coins. Direction: UP
+============
+x x x x x C 
+x x g x g B 
+x x x k m m 
+k x g H k m 
+x x x x C m 
+x k x x x x 
+===========
+Level: 3. Mario is at position: (3,3). Mario is at power level 1. Mario ate a mushroom. Mario has 2 lives left. Mario has 6 coins. Direction: DOWN
+============
+x x x x x C 
+x x g x g B 
+x x x k m m 
+k x g x k m 
+x x x H C m 
+x k x x x x 
+===========
+Level: 3. Mario is at position: (4,3). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 6 coins. Direction: UP
+============
+x x x x x C 
+x x g x g B 
+x x x k m m 
+k x g H k m 
+x x x x C m 
+x k x x x x 
+===========
+Level: 3. Mario is at position: (3,3). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 6 coins. Direction: LEFT
+============
+x x x x x C 
+x x g x g B 
+x x x k m m 
+k x H x k m 
+x x x x C m 
+x k x x x x 
+===========
+Level: 3. Mario is at position: (3,2). Mario is at power level 2. Mario fought a Goomba and won. Mario has 2 lives left. Mario has 6 coins. Direction: UP
+============
+x x x x x C 
+x x g x g B 
+x x H k m m 
+k x x x k m 
+x x x x C m 
+x k x x x x 
+===========
+Level: 3. Mario is at position: (2,2). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 6 coins. Direction: UP
+============
+x x x x x C 
+x x H x g B 
+x x x k m m 
+k x x x k m 
+x x x x C m 
+x k x x x x 
+===========
+Level: 3. Mario is at position: (1,2). Mario is at power level 2. Mario fought a Goomba and won. Mario has 2 lives left. Mario has 6 coins. Direction: DOWN
+============
+x x x x x C 
+x x x x g B 
+x x H k m m 
+k x x x k m 
+x x x x C m 
+x k x x x x 
+===========
+Level: 3. Mario is at position: (2,2). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 6 coins. Direction: UP
+============
+x x x x x C 
+x x H x g B 
+x x x k m m 
+k x x x k m 
+x x x x C m 
+x k x x x x 
+===========
+Level: 3. Mario is at position: (1,2). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 6 coins. Direction: UP
+============
+x x H x x C 
+x x x x g B 
+x x x k m m 
+k x x x k m 
+x x x x C m 
+x k x x x x 
+===========
+Level: 3. Mario is at position: (0,2). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 6 coins. Direction: UP
+============
+x x x x x C 
+x x x x g B 
+x x x k m m 
+k x x x k m 
+x x x x C m 
+x k H x x x 
+===========
+Level: 3. Mario is at position: (5,2). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 6 coins. Direction: LEFT
+============
+x x x x x C 
+x x x x g B 
+x x x k m m 
+k x x x k m 
+x x x x C m 
+x H x x x x 
+===========
+Level: 3. Mario is at position: (5,1). Mario is at power level 2. Mario fought a Koopa and won. Mario has 2 lives left. Mario has 6 coins. Direction: RIGHT
+============
+x x x x x C 
+x x x x g B 
+x x x k m m 
+k x x x k m 
+x x x x C m 
+x x H x x x 
+===========
+Level: 3. Mario is at position: (5,2). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 6 coins. Direction: UP
+============
+x x x x x C 
+x x x x g B 
+x x x k m m 
+k x x x k m 
+x x H x C m 
+x x x x x x 
+===========
+Level: 3. Mario is at position: (4,2). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 6 coins. Direction: LEFT
+============
+x x x x x C 
+x x x x g B 
+x x x k m m 
+k x x x k m 
+x H x x C m 
+x x x x x x 
+===========
+Level: 3. Mario is at position: (4,1). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 6 coins. Direction: UP
+============
+x x x x x C 
+x x x x g B 
+x x x k m m 
+k H x x k m 
+x x x x C m 
+x x x x x x 
+===========
+Level: 3. Mario is at position: (3,1). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 6 coins. Direction: RIGHT
+============
+x x x x x C 
+x x x x g B 
+x x x k m m 
+k x H x k m 
+x x x x C m 
+x x x x x x 
+===========
+Level: 3. Mario is at position: (3,2). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 6 coins. Direction: RIGHT
+============
+x x x x x C 
+x x x x g B 
+x x x k m m 
+k x x H k m 
+x x x x C m 
+x x x x x x 
+===========
+Level: 3. Mario is at position: (3,3). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 6 coins. Direction: RIGHT
+============
+x x x x x C 
+x x x x g B 
+x x x k m m 
+k x x x H m 
+x x x x C m 
+x x x x x x 
+===========
+Level: 3. Mario is at position: (3,4). Mario is at power level 2. Mario fought a Koopa and lost. Mario has 2 lives left. Mario has 6 coins. Direction: DOWN
+============
+x x x x x C 
+x x x x g B 
+x x x k m m 
+k x x x k m 
+x x x x H m 
+x x x x x x 
+===========
+Level: 3. Mario is at position: (4,4). Mario is at power level 1. Mario collected a coin. Mario has 2 lives left. Mario has 7 coins. Direction: UP
+============
+x x x x x C 
+x x x x g B 
+x x x k m m 
+k x x x H m 
+x x x x x m 
+x x x x x x 
+===========
+Level: 3. Mario is at position: (3,4). Mario is at power level 1. Mario fought a Koopa and won. Mario has 2 lives left. Mario has 7 coins. Direction: RIGHT
+============
+x x x x x C 
+x x x x g B 
+x x x k m m 
+k x x x x H 
+x x x x x m 
+x x x x x x 
+===========
+Level: 3. Mario is at position: (3,5). Mario is at power level 1. Mario ate a mushroom. Mario has 2 lives left. Mario has 7 coins. Direction: RIGHT
+============
+x x x x x C 
+x x x x g B 
+x x x k m m 
+H x x x x x 
+x x x x x m 
+x x x x x x 
+===========
+Level: 3. Mario is at position: (3,0). Mario is at power level 2. Mario fought a Koopa and won. Mario has 2 lives left. Mario has 7 coins. Direction: RIGHT
+============
+x x x x x C 
+x x x x g B 
+x x x k m m 
+x H x x x x 
+x x x x x m 
+x x x x x x 
+===========
+Level: 3. Mario is at position: (3,1). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 7 coins. Direction: LEFT
+============
+x x x x x C 
+x x x x g B 
+x x x k m m 
+H x x x x x 
+x x x x x m 
+x x x x x x 
+===========
+Level: 3. Mario is at position: (3,0). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 7 coins. Direction: RIGHT
+============
+x x x x x C 
+x x x x g B 
+x x x k m m 
+x H x x x x 
+x x x x x m 
+x x x x x x 
+===========
+Level: 3. Mario is at position: (3,1). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 7 coins. Direction: LEFT
+============
+x x x x x C 
+x x x x g B 
+x x x k m m 
+H x x x x x 
+x x x x x m 
+x x x x x x 
+===========
+Level: 3. Mario is at position: (3,0). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 7 coins. Direction: RIGHT
+============
+x x x x x C 
+x x x x g B 
+x x x k m m 
+x H x x x x 
+x x x x x m 
+x x x x x x 
+===========
+Level: 3. Mario is at position: (3,1). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 7 coins. Direction: DOWN
+============
+x x x x x C 
+x x x x g B 
+x x x k m m 
+x x x x x x 
+x H x x x m 
+x x x x x x 
+===========
+Level: 3. Mario is at position: (4,1). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 7 coins. Direction: RIGHT
+============
+x x x x x C 
+x x x x g B 
+x x x k m m 
+x x x x x x 
+x x H x x m 
+x x x x x x 
+===========
+Level: 3. Mario is at position: (4,2). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 7 coins. Direction: UP
+============
+x x x x x C 
+x x x x g B 
+x x x k m m 
+x x H x x x 
+x x x x x m 
+x x x x x x 
+===========
+Level: 3. Mario is at position: (3,2). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 7 coins. Direction: UP
+============
+x x x x x C 
+x x x x g B 
+x x H k m m 
+x x x x x x 
+x x x x x m 
+x x x x x x 
+===========
+Level: 3. Mario is at position: (2,2). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 7 coins. Direction: RIGHT
+============
+x x x x x C 
+x x x x g B 
+x x x H m m 
+x x x x x x 
+x x x x x m 
+x x x x x x 
+===========
+Level: 3. Mario is at position: (2,3). Mario is at power level 2. Mario fought a Koopa and won. Mario has 2 lives left. Mario has 7 coins. Direction: LEFT
+============
+x x x x x C 
+x x x x g B 
+x x H x m m 
+x x x x x x 
+x x x x x m 
+x x x x x x 
+===========
+Level: 3. Mario is at position: (2,2). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 7 coins. Direction: DOWN
+============
+x x x x x C 
+x x x x g B 
+x x x x m m 
+x x H x x x 
+x x x x x m 
+x x x x x x 
+===========
+Level: 3. Mario is at position: (3,2). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 7 coins. Direction: LEFT
+============
+x x x x x C 
+x x x x g B 
+x x x x m m 
+x H x x x x 
+x x x x x m 
+x x x x x x 
+===========
+Level: 3. Mario is at position: (3,1). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 7 coins. Direction: UP
+============
+x x x x x C 
+x x x x g B 
+x H x x m m 
+x x x x x x 
+x x x x x m 
+x x x x x x 
+===========
+Level: 3. Mario is at position: (2,1). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 7 coins. Direction: DOWN
+============
+x x x x x C 
+x x x x g B 
+x x x x m m 
+x H x x x x 
+x x x x x m 
+x x x x x x 
+===========
+Level: 3. Mario is at position: (3,1). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 7 coins. Direction: UP
+============
+x x x x x C 
+x x x x g B 
+x H x x m m 
+x x x x x x 
+x x x x x m 
+x x x x x x 
+===========
+Level: 3. Mario is at position: (2,1). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 7 coins. Direction: DOWN
+============
+x x x x x C 
+x x x x g B 
+x x x x m m 
+x H x x x x 
+x x x x x m 
+x x x x x x 
+===========
+Level: 3. Mario is at position: (3,1). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 7 coins. Direction: DOWN
+============
+x x x x x C 
+x x x x g B 
+x x x x m m 
+x x x x x x 
+x H x x x m 
+x x x x x x 
+===========
+Level: 3. Mario is at position: (4,1). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 7 coins. Direction: DOWN
+============
+x x x x x C 
+x x x x g B 
+x x x x m m 
+x x x x x x 
+x x x x x m 
+x H x x x x 
+===========
+Level: 3. Mario is at position: (5,1). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 7 coins. Direction: UP
+============
+x x x x x C 
+x x x x g B 
+x x x x m m 
+x x x x x x 
+x H x x x m 
+x x x x x x 
+===========
+Level: 3. Mario is at position: (4,1). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 7 coins. Direction: UP
+============
+x x x x x C 
+x x x x g B 
+x x x x m m 
+x H x x x x 
+x x x x x m 
+x x x x x x 
+===========
+Level: 3. Mario is at position: (3,1). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 7 coins. Direction: DOWN
+============
+x x x x x C 
+x x x x g B 
+x x x x m m 
+x x x x x x 
+x H x x x m 
+x x x x x x 
+===========
+Level: 3. Mario is at position: (4,1). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 7 coins. Direction: UP
+============
+x x x x x C 
+x x x x g B 
+x x x x m m 
+x H x x x x 
+x x x x x m 
+x x x x x x 
+===========
+Level: 3. Mario is at position: (3,1). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 7 coins. Direction: DOWN
+============
+x x x x x C 
+x x x x g B 
+x x x x m m 
+x x x x x x 
+x H x x x m 
+x x x x x x 
+===========
+Level: 3. Mario is at position: (4,1). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 7 coins. Direction: RIGHT
+============
+x x x x x C 
+x x x x g B 
+x x x x m m 
+x x x x x x 
+x x H x x m 
+x x x x x x 
+===========
+Level: 3. Mario is at position: (4,2). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 7 coins. Direction: UP
+============
+x x x x x C 
+x x x x g B 
+x x x x m m 
+x x H x x x 
+x x x x x m 
+x x x x x x 
+===========
+Level: 3. Mario is at position: (3,2). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 7 coins. Direction: DOWN
+============
+x x x x x C 
+x x x x g B 
+x x x x m m 
+x x x x x x 
+x x H x x m 
+x x x x x x 
+===========
+Level: 3. Mario is at position: (4,2). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 7 coins. Direction: RIGHT
+============
+x x x x x C 
+x x x x g B 
+x x x x m m 
+x x x x x x 
+x x x H x m 
+x x x x x x 
+===========
+Level: 3. Mario is at position: (4,3). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 7 coins. Direction: DOWN
+============
+x x x x x C 
+x x x x g B 
+x x x x m m 
+x x x x x x 
+x x x x x m 
+x x x H x x 
+===========
+Level: 3. Mario is at position: (5,3). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 7 coins. Direction: RIGHT
+============
+x x x x x C 
+x x x x g B 
+x x x x m m 
+x x x x x x 
+x x x x x m 
+x x x x H x 
+===========
+Level: 3. Mario is at position: (5,4). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 7 coins. Direction: RIGHT
+============
+x x x x x C 
+x x x x g B 
+x x x x m m 
+x x x x x x 
+x x x x x m 
+x x x x x H 
+===========
+Level: 3. Mario is at position: (5,5). Mario is at power level 2. The position is empty. Mario has 2 lives left. Mario has 7 coins. Direction: DOWN
+============
+x x x x x H 
+x x x x g B 
+x x x x m m 
+x x x x x x 
+x x x x x m 
+x x x x x x 
+===========
+Level: 3. Mario is at position: (0,5). Mario is at power level 2. Mario collected a coin. Mario has 2 lives left. Mario has 8 coins. Direction: DOWN
+============
+x x x x x x 
+x x x x g H 
+x x x x m m 
+x x x x x x 
+x x x x x m 
+x x x x x x 
+===========
+Level: 3. Mario is at position: (1,5). Mario is at power level 2. Mario encountered a boss and lost.  Mario will stay put and fight the boss again. Mario has 2 lives left. Mario has 8 coins. Direction: stay put
+============
+x x x x x x 
+x x x x g H 
+x x x x m m 
+x x x x x x 
+x x x x x m 
+x x x x x x 
+===========
+Level: 3. Mario is at position: (1,5). Mario is at power level 0. Mario encountered a boss and lost.  Mario will stay put and fight the boss again. Mario has 2 lives left. Mario has 8 coins. Direction: stay put
+============
+x x x x x x 
+x x x x g H 
+x x x x m m 
+x x x x x x 
+x x x x x m 
+x x x x x x 
+===========
+Level: 3. Mario is at position: (1,5). Mario is at power level 0. Mario encountered a boss and won.  Mario has saved the princess. Mario has 2 lives left. Mario has 8 coins. Direction: stay put
+============
+x x x x x x 
+x x x x g H 
+x x x x m m 
+x x x x x x 
+x x x x x m 
+x x x x x x 
+===========
+MARIO SAVED THE PRINCESS AND WON!
+Moves: 94
+GAME OVER!
